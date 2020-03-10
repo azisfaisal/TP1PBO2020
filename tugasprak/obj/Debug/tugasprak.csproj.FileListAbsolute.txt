@@ -1,0 +1,10 @@
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.csprojAssemblyReference.cache
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.login.resources
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.Properties.Resources.resources
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.csproj.GenerateResource.cache
+D:\Kuliah\PBO\tugasprak\tugasprak\bin\Debug\tugasprak.exe.config
+D:\Kuliah\PBO\tugasprak\tugasprak\bin\Debug\tugasprak.exe
+D:\Kuliah\PBO\tugasprak\tugasprak\bin\Debug\tugasprak.pdb
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.exe
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.pdb
+D:\Kuliah\PBO\tugasprak\tugasprak\obj\Debug\tugasprak.home.resources
